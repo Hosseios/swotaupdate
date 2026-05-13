@@ -1,0 +1,10 @@
+{
+  "version": "0.1.1",
+  "build": 2,
+  "target": "cyd",
+  "partition": "cyd_ota_nofs_4MB",
+  "bin_url": "",
+  "size": 0,
+  "sha256": "",
+  "notes": "OTA manifest check test"
+}
