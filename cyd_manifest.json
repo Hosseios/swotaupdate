@@ -1,10 +1,10 @@
 {
-  "version": "0.1.2",
-  "build": 3,
+  "version": "0.1.3",
+  "build": 4,
   "target": "cyd",
   "partition": "cyd_ota_nofs_4MB",
-  "bin_url": "https://raw.githubusercontent.com/Hosseios/swotaupdate/main/spacewatch-cyd-v0.1.2.bin",
-  "size": 1429152,
-  "sha256": "a7478f318c01b3b71986e674474e731666a5291b876378cd1c803db052407afa",
+  "bin_url": "https://raw.githubusercontent.com/Hosseios/swotaupdate/main/spacewatch-cyd-v0.1.3.bin",
+  "size": 1429472,
+  "sha256": "3d4fa286cf70b9b9ac00e5ec983ddcc18ed8a725db334a8b73079863296885e2",
   "notes": "SpaceWatchCYD update"
 }
