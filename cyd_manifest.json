@@ -3,8 +3,8 @@
   "build": 2,
   "target": "cyd",
   "partition": "cyd_ota_nofs_4MB",
-  "bin_url": "https://example.com/spacewatch-cyd-v0.1.1.bin",
-  "size": 1400000,
-  "sha256": "test",
-  "notes": "OTA manifest check test"
+  "bin_url": "https://raw.githubusercontent.com/Hosseios/swotaupdate/main/spacewatch-cyd-v0.1.1.bin",
+  "size": 1428800,
+  "sha256": "8117f134586fe8a26d993d54f828a37995545a52d1a063959e676a775328e9ae",
+  "notes": "OTA install test build"
 }
